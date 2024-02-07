@@ -26,7 +26,7 @@ const updateImage = () => {
             <img
               src="${images[imageIndex]}"
               alt="Toggleable Image"
-              style="width: 28%; margin: auto; display: block; cursor: pointer;"
+              style="width: 33%; margin: auto; display: block; cursor: pointer;"
               onclick="toggleImage()"
             />
           </div>
